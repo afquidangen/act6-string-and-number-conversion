@@ -15,6 +15,7 @@ console.log("DATA TYPE: " + typeof price_converttoNumber1);
 // PRICE(converted to number): 200
 // DATA TYPE: number
 
+//USING THE Number()
 console.log("USING THE Number()");
 
 price_converttoNumber2 = (Number(price));
